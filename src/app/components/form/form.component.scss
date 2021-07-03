@@ -1,0 +1,26 @@
+mat-card {
+  margin: 16px auto;
+  width: 50%;
+
+  mat-card-title {
+    text-align: center;
+    color: #330FFF;
+  }
+
+  mat-list-item {
+    height: 60px !important;
+    margin-top: 10px;
+
+    mat-form-field {
+      width: 100%;
+    }
+  }
+}
+
+ .button {
+        margin-left: 16px;
+    }
+
+    .not-found {
+      color: red;
+    }

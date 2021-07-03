@@ -1,0 +1,22 @@
+{
+    "RES_SALES_INVOICE":[
+        {
+            "InvoiceNo":"INV001",
+            "InvoiceName":"Invoice Number One",
+            "CustomerName":"Mr.David",
+            "TotalAmount":"100000"
+        },
+        {
+            "InvoiceNo":"INV002",
+            "InvoiceName":"Invoice Number Two",
+            "CustomerName":"Juliar",
+            "TotalAmount":"200000"
+        },
+        {
+            "InvoiceNo":"INV003",
+            "InvoiceName":"Invoice Number Three",
+            "CustomerName":"Mr. Michael",
+            "TotalAmount":"300000"
+        }
+    ]
+}
